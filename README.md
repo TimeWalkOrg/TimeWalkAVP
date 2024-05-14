@@ -1,2 +1,4 @@
 # TimeWalkAVP
-Apple Vision Pro building viewer - New Amsterdam 1660
+Apple Vision Pro building viewer for TimeWalk
+
+Testing GPS-locked building display of USDZ and USDC building models
